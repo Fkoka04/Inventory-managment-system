@@ -1,2 +1,2 @@
 # Inventory-managment-system
-First Public repositroy
+First Public repository
